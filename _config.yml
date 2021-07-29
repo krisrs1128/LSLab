@@ -32,6 +32,7 @@ include: ["_includes"]
 theme: minima
 plugins:
   - jekyll-feed
+baseurl: ""
 url: http://krisrs1128.github.io
 
 sass:
