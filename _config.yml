@@ -32,8 +32,8 @@ include: ["_includes"]
 theme: minima
 plugins:
   - jekyll-feed
-baseurl: "LSLab"
 url: "http://krisrs1128.github.io"
+baseurl: "LSLab"
 
 collections:
   papers:
