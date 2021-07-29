@@ -35,9 +35,6 @@ plugins:
 baseurl: ""
 url: "http://krisrs1128.github.io/LSLab/"
 
-sass:
-  sass_dir: ./_sass
-
 collections:
   papers:
     permalink: /papers/:year/:month/:day/:title/
@@ -48,7 +45,6 @@ collections:
   team:
     permalink: /team/:title/
     output: true
-
 
 defaults:
 - scope:
