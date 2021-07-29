@@ -33,7 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 baseurl: ""
-url: "http://krisrs1128.github.io"
+url: "http://krisrs1128.github.io/LSLab/"
 
 sass:
   sass_dir: ./_sass
