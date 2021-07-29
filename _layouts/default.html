@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+  {% include topnav.html %}
+
+  {% if page.image != null %}
+    <div class='banner' style="
+			      background: url('/img/pattern.png') top left repeat,
+			      url( {{ page.image }}) top center / cover no-repeat;
+			      position: relative;
+			      ">
+    </div>
+  {% endif %}
+	{% if page.desc != null %}
+    <div class="container"><div class="row">
+      <div class="col-sm-12">
+    		<h1>{{ page.desc }}</h1>
+    </div>
+  </div>
+	</div>
+	{% endif %}
+
+  <div class="page-content">
+      <div class="wrapper">
+    <div class="container">
+	<div class="row"><div class="col-sm-12">
+	    {{ content }}
+	</div></div>
+    </div>
+      </div>
+  </div>
+
+  {% include footer.html %}
+  {% include js_files.html %}
+
+</body>
+</html>

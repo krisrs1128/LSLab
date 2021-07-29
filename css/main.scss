@@ -1,0 +1,136 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP:300, 300i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/variables",
+  {% endif %}
+
+  "bootstrap",
+
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/bootswatch",
+  {% endif %}
+
+  "syntax-highlighting",
+  "typeahead"
+;
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+   //padding-top: $navbar-height + $navbar-margin-bottom;
+    padding-top: $navbar-height;
+    font-family: "Noto Serif JP";
+    h1 {
+      font-size: 26px;
+      font-family: "Lato"
+    }
+
+    h2 {
+      font-size: 20px;
+      font-family: "Lato"
+    }
+
+    h3 {
+      font-size: 18px;
+      font-family: "Mono"
+    }
+
+    h4 {
+      font-size: 16px;
+      font-family: "Noto Serif JP"
+    }
+}
+.banner {
+    list-style: none;
+    padding: 0px 0px 10px 0px;
+    margin: 0px 0px 30px 0px;
+    float: left;
+    display: inline-block;
+    height: 50vh;
+    //width: 100vw;
+    width: 100%;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+.navbar-default .navbar-brand{
+  img{
+    margin: -$navbar-padding-vertical 0;
+    height: $navbar-height;
+    padding: 10px 0;
+  }
+  color: #3c1824
+}
+
+.header-container {
+  background-color: black;
+  background: url('../img/bg.jpg') no-repeat 50% 0;
+
+  h1 {
+    color: #3a2e4e;
+  }
+  // background-attachment: fixed;
+  background-size: cover;
+  background-position: center 36%;
+  margin-top: -37px;
+}
+.navbar-container {
+  font-size: 16px;
+  color: #3a2e4e;
+}
+.page-content {
+  padding: 20px;
+}
+.footer {
+  //position: absolute;
+  //bottom: 0;
+  width: 100%;
+  //height: 46px;
+  padding: 10px 15px 10px 15px;
+  background-color: $gray-lighter;
+  color: $gray-dark;
+  margin-top:30px;
+  border-top: 1px solid $gray-dark;
+}
+
+.navbar {
+    background-color: #eec9c1;
+    border-bottom: 1px solid #87a39f;
+    font-family: "Lato";
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #3c1824;
+}
+
+.post-list-container {
+  li a.active {
+    font-weight: bold;
+  }
+}
+*[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -75px;
+  height: 75px;
+  visibility: hidden;
+}
+.navbar-form .has-feedback .form-control-feedback{
+  top:10px
+}
+
+blockquote {
+    font-size: 13px;
+}

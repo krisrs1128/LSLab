@@ -1,0 +1,23 @@
+<div class="row" style="padding: 15px">
+<!--
+    <div class="col-sm-6 col-md-4" align="center">
+        <img src="{{ page.profile }}" class="img-responsive img-circle" alt="{{ page.name }}">
+    </div>
+-->
+
+<div class="col-sm-6 col-md-8">
+	<h3 class="header-light regular-pad"> {{ page.name }}</h3>
+	<h4> {{ page.title }} </h4>
+	{{ page.description }}
+	{% if page.alumni != null %}
+	Lab Member: {{ page.alumni }}
+	{% endif %}
+	<br>
+	{% if page.home != null %}
+	<a href=" {{ page.home }} ">Website</a>
+	{% endif %}
+	{% if page.mail != null %}
+	<a href="mailto:{{ page.mail }}"><li class="fa fa-fw fa-2x fa-envelope"></li></a>
+	{% endif %}
+    </div>
+</div>

@@ -1,0 +1,31 @@
+---
+title: Publications
+layout: default
+sectionid: publications
+---
+
+<h1>Publications</h1>
+<a href="https://orcid.org/">ORCID</a> | <a href="https://scholar.google.com/citations">Google Scholar</a>
+
+<br><br>
+
+<div class="container" id="toc">
+    <hr>
+    <h2>Table of Contents</h2>
+    <ul class="post-list-container">
+                {% assign items = site.papers | reverse %}
+                {% for post in items %}
+                <li>{{ post.date | date_to_long_string }} - <a href="{{ site.baseurl }}/publications#{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+    </ul>
+</div>
+
+<div class="container">
+    <hr>
+    {% for pub in site.papers reversed %}
+    <div class="row" id={{pub.id}}/><div class="col-md-12">
+	{{ pub }}
+    </div></div>
+    <hr>
+    {% endfor %}
+</div>

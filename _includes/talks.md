@@ -1,0 +1,13 @@
+---
+layout: default
+title: Talks
+permalink: /talks/
+sectionid: talks
+---
+
+* Kris Sankaran [Discovery and Visualization - Invitation to Research](https://drive.google.com/drive/folders/16P8ZeKM1IEZFgCHgSxakUymamMZkNkTl). UW Madison Statistics Department Lightning Talks. March 2021.
+* Kris Sankaran. [Visualization and Representation in Complex Data](https://drive.google.com/file/d/1ir71L-TSgFscfcDZ9VOeSWDRcOpHRf70/view?usp=sharing). UW Madison VISP Talks. November 2020.
+* Kris Sankaran. [Invitation to Research](https://docs.google.com/presentation/d/1da1j5_jBzIJhCMO8BhHvNVJSGtrjRWHA/edit). UW Madison Statistics Department Lightning Talks. September 2020.
+* Kris Sankaran. [The Stability of Learned Features](https://drive.google.com/file/d/1MR7z8Y0gMyLVdOMKUu3CNpKYDNbVKiuj/view?usp=sharing). IMS Bernoulli One-World Symposium. August 2020. [Recording](https://www.youtube.com/watch?v=0W84gxCm83A).
+* Kris Sankaran. [Formalization of Complex Workflows](https://drive.google.com/file/d/1mSRbA96aTuiIHSUmgfZKV788seF3X7p_/view?usp=sharing). Stanford University Data Science Scholars. August 2020.
+* Sasha Luccioni, Kris Sankaran, and Tegan Maharaj. [Tackling Societal Problems of Climate Change with Machine Learning](https://drive.google.com/file/d/1wqf-nrvfQEODwfsK-q9TOsq2gPhZZqHk/view?usp=sharing). Montreal AI Symposium. September 2019.
