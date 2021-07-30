@@ -15,7 +15,7 @@ sectionid: publications
     <ul class="post-list-container">
                 {% assign items = site.papers | reverse %}
                 {% for post in items %}
-                <li>{{ post.date | date_to_long_string }} - <a href="{{ site.baseurl }}/publications#{{ post.url }}">{{ post.title }}</a></li>
+                <li>{{ post.date | date_to_long_string }} - <a href="{{ site.url }}/_includes/publications#{{ post.url }}">{{ post.title }}</a></li>
                 {% endfor %}
     </ul>
 </div>
