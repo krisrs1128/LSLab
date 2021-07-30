@@ -4,7 +4,7 @@
     <h3> {{ page.authors }} </h3>
 
     <div align="center" style="padding: 10px">
-	<img class="img-responsive" src="{{ page.image }}">
+	<img class="img-responsive" src="{{ page.image | prepend: site.url}}">
     </div>
 
     <b>Abstract:</b> {{ page.abstract }}
