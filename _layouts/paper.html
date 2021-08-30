@@ -11,7 +11,7 @@
     <br><br>
     <b>Paper:</b> <a href="{{ page.journalurl }}" target="_blank"> {{ page.journal }} </a>
     {% if page.pdfurl != null %}
-    | <a href="{{ page.pdfurl }}" target="_blank"> PDF </a>
+    | <a href="{{ page.pdfurl | prepend: site.url }}" target="_blank"> PDF </a>
     {% endif %}
     <br><br>
     {% if page.code != null %}
