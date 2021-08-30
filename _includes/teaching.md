@@ -12,6 +12,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Courses
 
+* STAT 424 [Fall 2021] [Statistical Experimental Design](https://krisrs1128.github.io/stat424_f21/)
 * STAT 479 [Spring 2021] [Statistical Data Visualization](https://krisrs1128.github.io/stat479/)
 * STAT 424 [Fall 2020] Statistical Experimental Design - [notes](https://drive.google.com/drive/folders/1rnJlAXs57WyMcTzwQ5HNT_eCecEI3gQh), [recordings](https://mediaspace.wisc.edu/channel/STAT+424+Fall+2020/180027062)
 * IFT6758 [Fall 2019] [Introduction to Data Science](https://ift6758.github.io)
