@@ -6,7 +6,7 @@ sectionid: team
 
 <div class="row">
     <div class="col-sm-6 col-md-4" align="center">
-        <img src="{{ "/img/kris.png" | prepend: site.baseurl }}">
+        <img src="{{ "https://stat.wisc.edu/wp-content/uploads/sites/870/2020/06/sankaran_kris-217x300.jpeg" }}">
     </div>
     <div class="col-sm-6 col-md-8">
 	<h2 class="header-light regular-pad">Kris Sankaran</h2>
@@ -22,7 +22,7 @@ sectionid: team
   understanding complex microbiome datasets.
 	<br><br>
   <a href="mailto:ksankaran@wisc.edu"><li class="fa fa-fw fa-2x fa-envelope"></li></a>
-  <a href="{{ "/assets/docs/cv.pdf" | prepend: site.baseurl }}">CV</a>
+  <a href="{{ "https://drive.google.com/file/d/154jCZKIaReqOed-DQFmvu2lC24ytJnXr/view?usp=sharing/assets/docs/cv.pdf" }}">CV</a>
 	<br><br>
 </div>
 <hr>
