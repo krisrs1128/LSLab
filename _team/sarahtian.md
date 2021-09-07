@@ -2,5 +2,5 @@
 layout: team
 name: Sarah Tian
 title: Undergraduate student
-home:
+profile: "assets/img/profiles/sarahtian.jpg"
 ---

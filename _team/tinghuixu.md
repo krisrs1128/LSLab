@@ -2,5 +2,5 @@
 layout: team
 name: Tinghui Xu
 title: MSDS Student
-home:
+profile: "assets/img/profiles/sarahtian.jpg"
 ---
