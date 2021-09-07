@@ -21,7 +21,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
-* Computing Tricks - Debugging, Profiling, and Code Style [Summer 2021] - [slides](https://drive.google.com/file/d/1H7vR29-DMG2G0YUYd9XBM-PejkPYfFC1/view?usp=sharing)
+* Computing Tricks - Debugging, Profiling, and Code Style [Summer 2021] - [slides](https://drive.google.com/file/d/1H7vR29-DMG2G0YUYd9XBM-PejkPYfFC1/view?usp=sharing), [code](https://drive.google.com/file/d/1cYq4wMz_0VQrarWPKZcMH5FnybkVEEid/view?usp=sharing)
 * Practical Tips for Research Writing [Spring 2021] - [slides](https://drive.google.com/file/d/1sVn7wE8MOGBnCbJYd5vlNY9VTQsVJ7G0/view?usp=sharing)
 * [Deep Learning IndabaX Uganda](https://indabaxug.github.io/) [Summer 2021] - [slides](https://drive.google.com/file/d/1eHkyZLV57gNTPvblPch1eteSbWTNF5h5/view?usp=sharing)
 * [Data Science Research Bazaar](https://datascience.wisc.edu/data-science-research-bazaar/) [Spring 2021] - [notes](https://krisrs1128.github.io/mapping-vis/)
