@@ -12,13 +12,13 @@
 	<div id="navbar" class="collapse navbar-collapse">
 	    <ul class="nav navbar-nav navbar-right">
 		<li {% if page.sectionid=='team' %} class="active" {% endif %}>
-		    <a href="_includes/team">
+		    <a href="{{ site.url }}/_includes/team">
 			Team
 		    </a>
 		</li>
 
 		<li {% if page.sectionid=='publications' %} class="active" {% endif %}>
-		    <a href="_includes/publications">
+		    <a href="{{ site.url }}/_includes/publications">
 			Publications
 		    </a>
 		</li>
@@ -29,17 +29,17 @@
 		    </a>
 		    <ul class="dropdown-menu" role="menu" aria-labelledby="navbarDropdown">
 			<li {% if page.sectionid=='software' %} class="active" {% endif %}>
-			    <a class="dropdown-item" href="software">
+			    <a class="dropdown-item" href="{{ site.url }}/software">
 				Software
 			    </a>
 			</li>
 			<li {% if page.sectionid=='teaching' %} class="active" {% endif %}>
-			    <a class="dropdown-item" href="teaching">
+			    <a class="dropdown-item" href="{{ site.url }}/teaching">
 				Teaching
 			    </a>
 			</li>
 			<li {% if page.sectionid=='talks' %} class="active" {% endif %}>
-			    <a class="dropdown-item" href="talks">
+			    <a class="dropdown-item" href="{{ site.url }}/talks">
 				Talks
 			    </a>
 			</li>
@@ -47,7 +47,7 @@
 		</li>
 
 		<li {% if page.sectionid=='contact' %} class="active" {% endif %}>
-		    <a href="_includes/contact">
+		    <a href="{{ site.url }}/_includes/contact">
 			Contact
 		    </a>
 		</li>
