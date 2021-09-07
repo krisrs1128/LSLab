@@ -6,7 +6,7 @@ sectionid: team
 
 <div class="row">
     <div class="col-sm-6 col-md-4" align="center">
-        <img src="{{ "https://stat.wisc.edu/wp-content/uploads/sites/870/2020/06/sankaran_kris-217x300.jpeg" }}" width="250px">
+        <img src="{{ "https://stat.wisc.edu/wp-content/uploads/sites/870/2020/06/sankaran_kris-217x300.jpeg" }}" width="150px">
     </div>
     <div class="col-sm-6 col-md-8">
 	<h2 class="header-light regular-pad">Kris Sankaran</h2>
