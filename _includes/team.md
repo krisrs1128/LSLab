@@ -26,6 +26,7 @@ sectionid: team
 	<br><br>
 </div>
 <hr>
+<hr>
 
 <h1>Current Team</h1>
 
