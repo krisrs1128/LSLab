@@ -15,3 +15,4 @@ sectionid: software
 ### Ecosystem Monitoring
 
 * [Mapping Visualization](https://mybinder.org/v2/gh/krisrs1128/mappingvis/HEAD) - A binder link with notebooks explaining the uses of visualization in remote sensing
+* [Glacier mapping](https://github.com/krisrs1128/glacier_mapping) - A repository containing code for downloading, processing, and building models on glacier data.
