@@ -46,6 +46,10 @@
 		    </ul>
 		</li>
 
+		<li {% if page.sectionid=='blog' %} class="active" {% endif %}>
+		    <a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a>
+		</li>
+
 		<li {% if page.sectionid=='contact' %} class="active" {% endif %}>
 		    <a href="{{ site.url }}/_includes/contact">
 			Contact
