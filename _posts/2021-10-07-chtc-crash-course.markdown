@@ -150,6 +150,19 @@ condor_submit basic.submit
 
 What do you think is output by the job?
 
+Finally, we note that any of the parameters specified in the submit file can be
+overwritten at submit time as an argument to `condor_submit`. This is useful
+whenever several similar executables can be run using the same background
+resources and input. For example, we can use
+
+{%highlight bash %}
+condor_submit train.submit executable=model1.sh
+condor_submit train.submit executable=model2.sh
+{% endhighlight %}
+
+to run two separate models,`model1` and `model2`, using the same resources,
+specified by `train.submit`.
+
 ### Debugging a Compute Job
 
 It would be a miracle if a compute job worked on its first submission. More
