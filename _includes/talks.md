@@ -5,6 +5,8 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran. [Understanding Machine Learning Algorithms](https://drive.google.com/file/d/1mjzVeEmoAopTh-QYE6Rc9HQeuH_7Ynhl/view?usp=sharing). Data Science Nigeria AI Bootcamp. October 2021.
+* Kris Sankaran. [Recent Multi-Omics Methods and their Ancestors](https://drive.google.com/file/d/1L2crRIcdbql__XZdJuiRXkAKsvwrIZLO/view?usp=sharing). Susan Holmes Group Meeting. October 2021.
 * Kris Sankaran. [Latent Structure Laboratory](https://drive.google.com/file/d/1xwYyGc1bx7W-F5QyQlB3OJZT7MVTpdYd/view?usp=sharing). UW Madison Statistics Department Lightning Talks. September 2021.
 * Kris Sankaran. [Multiresolution Analysis of Count Data through Topic Alignment](https://drive.google.com/file/d/1VcXF0fAK2IlA3yXeqnJ_1CGC6BP4zPqp/view?usp=sharing). Susan Holmes Group Meeting. August 2021.
 * Kris Sankaran. [Discovery and Visualization - Invitation to Research](https://drive.google.com/drive/folders/16P8ZeKM1IEZFgCHgSxakUymamMZkNkTl). UW Madison Statistics Department Lightning Talks. March 2021.
