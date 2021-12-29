@@ -4,6 +4,7 @@ layout: default
 sectionid: team
 ---
 
+<div>
 <div class="row">
     <div class="col-sm-6 col-md-8">
 	<h2 class="header-light regular-pad">Kris Sankaran</h2>
@@ -24,6 +25,7 @@ sectionid: team
 </div>
 <hr>
 <hr>
+</div>
 
 <h1>Current Team</h1>
 

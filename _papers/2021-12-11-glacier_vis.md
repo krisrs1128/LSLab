@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Interactive Visualization and Representation Analysis Applied to Glacier Segmentation
-authors: Minxing Zheng, Xinran Miao, and Kris Sankaran
+authors: Minxing Zheng, Xinran Miao, Kris Sankaran
 image: /assets/img/glacier_vis.png
 abstract: Interpretability has attracted increasing attention in earth
 observation problems. We apply interactive visualization and representation
