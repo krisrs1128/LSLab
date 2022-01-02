@@ -7,7 +7,8 @@ sectionid: software
 
 ### Microbiome Data Analysis
 
-* [alto](https://lasy.github.io/alto/) - An R package for multiresolution alignment of topic models
+* [NBFvis](https://github.com/XTH1114/NBFvis/) - An R package for neighborhood-informed interactive visualization in spatial 'omics
+* [alto](https://lasy.github.io/alto/) - An R package for multiresolution alignment of topic models. See also the [binder examples](https://mybinder.org/v2/gh/krisrs1128/alto_demo/HEAD?urlpath=rstudio).
 * [treelapse](https://krisrs1128.github.io/treelapse/) - An R package for interactive visualization of time series that can be arranged onto trees
 * [structSSI](https://github.com/krisrs1128/structssi) - An R package for selective inference in hierarchical data
 * [Microbiome PLVM](https://github.com/krisrs1128/microbiome_plvm) - Stan and R code for latent variable modeling of microbiome count data

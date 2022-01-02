@@ -21,6 +21,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [NAAMII Winter School in AI - ML Foundations](https://nepalschool.naamii.com.np/) [Winter 2021] - [notes](https://krisrs1128.github.io/winter_school_2021/index.html), [exercises](https://docs.google.com/document/d/1xeP6FNdPo4D-zGgD0pSH2x-Szp5xH-HkYTvQCHoa4FA/edit#heading=h.isgbkg2nlxu2), [binder](https://mybinder.org/v2/gh/krisrs1128/winter_school_code/HEAD?urlpath=rstudio)
 * Computing Tricks - Debugging, Profiling, and Code Style [Summer 2021] - [slides](https://drive.google.com/file/d/1H7vR29-DMG2G0YUYd9XBM-PejkPYfFC1/view?usp=sharing), [code](https://drive.google.com/file/d/1cYq4wMz_0VQrarWPKZcMH5FnybkVEEid/view?usp=sharing)
 * Practical Tips for Research Writing [Spring 2021] - [slides](https://drive.google.com/file/d/1sVn7wE8MOGBnCbJYd5vlNY9VTQsVJ7G0/view?usp=sharing)
 * [Deep Learning IndabaX Uganda](https://indabaxug.github.io/) [Summer 2021] - [slides](https://drive.google.com/file/d/1eHkyZLV57gNTPvblPch1eteSbWTNF5h5/view?usp=sharing)
