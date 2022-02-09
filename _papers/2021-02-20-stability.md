@@ -1,10 +1,10 @@
 ---
 layout: paper
-title: Measuring the Stability of Learned Features
+title: Bootstrap Confidence Regions for Learned Feature Embeddings
 authors: Kris Sankaran
-image: /assets/img/stability.png
-abstract: Many modern datasets don’t fit neatly into n×p matrices, but most techniques for measuring statistical stability expect rectangular data. We study methods for stability assessment on non-rectangular data, using statistical learning algorithms to extract rectangular latent features. We design controlled simulations to characterize the power and practicality of competing approaches. This motivates new strategies for visualizing feature stability. Our stability curves supplement the direct analysis, providing information about the reliability of inferences based on learned features. Finally, we illustrate our approach using a spatial proteomics dataset, where machine learning tools can augment the scientist’s workflow, but where guarantees of statistical reproducibility are still central. Our raw data, packaged code, and experimental outputs are publicly available.
+image: /assets/img/stability2.png
+abstract: Algorithmic feature learners provide high-dimensional vector representations for non-matrix structured signals, like images, audio, text, and graphs. Low-dimensional projections derived from these representations can be used to explore variation across collections of these data. However, it is not clear how to assess the uncertainty associated with these projections. We adapt methods developed for bootstrapping principal components analysis to the setting where features are learned from non-matrix data. We empirically compare the derived confidence regions in simulations, varying factors that influence both feature learning and the bootstrap. Approaches are illustrated on spatial proteomic data. Code, data, and trained models are released as an R compendium.
 journal: Under review.
-pdfurl: /assets/papers/stability.pdf
-code: https://github.com/krisrs1128/learned_inference
+pdfurl: /assets/papers/stability2.pdf
+code: https://github.com/krisrs1128/LFBCR
 ---
