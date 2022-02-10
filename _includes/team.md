@@ -10,10 +10,11 @@ sectionid: team
 	<h2 class="header-light regular-pad">Kris Sankaran</h2>
   I am an assistant professor in the <a href="https://stat.wisc.edu">Department of
   Statistics</a> at the University of Wisconsin - Madison. I was previously a
-  postdoc at <a href="https://mila.quebec">Mila</a>, where I contributed to the
-  institute's <a href="https://mila.quebec/en/ai-society/">humanitarian AI</a>
-  initiative and worked on problems at the intersection of climate change
-  adaptation and AI. I received my PhD under the guidance of <a
+  postdoc with Yoshua Bengio at <a href="https://mila.quebec">Mila</a>, where I
+  contributed to the institute's <a
+  href="https://mila.quebec/en/ai-society/">humanitarian AI</a> initiative and
+  worked on problems at the intersection of climate change adaptation and AI. I
+  received my PhD under the guidance of <a
   href="http://statweb.stanford.edu/~susan/">Susan Holmes</a> at the Stanford
   University <a href="https://statistics.stanford.edu/">Department of
   Statistics</a>, specializing in probabilistic and interactive approaches to
