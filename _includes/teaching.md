@@ -12,6 +12,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Courses
 
+* STAT 479 [Spring 2022] [Statistical Data Visualization](https://github.com/krisrs1128/stat479_s22/)
 * STAT 424 [Fall 2021] [Statistical Experimental Design](https://krisrs1128.github.io/stat424_f21/)
 * STAT 479 [Spring 2021] [Statistical Data Visualization](https://krisrs1128.github.io/stat479/)
 * STAT 424 [Fall 2020] Statistical Experimental Design - [notes](https://drive.google.com/drive/folders/1rnJlAXs57WyMcTzwQ5HNT_eCecEI3gQh), [recordings](https://mediaspace.wisc.edu/channel/STAT+424+Fall+2020/180027062)
@@ -21,6 +22,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [Customizing Shiny User Interaces with HTML and CSS](https://www.youtube.com/watch?v=YJCgUe5SS9M).. Zhihao Lyu. Online Tutorial. January 2022.
 * [NAAMII Winter School in AI - ML Foundations](https://nepalschool.naamii.com.np/) [Winter 2021] - [notes](https://krisrs1128.github.io/winter_school_2021/index.html), [exercises](https://docs.google.com/document/d/1xeP6FNdPo4D-zGgD0pSH2x-Szp5xH-HkYTvQCHoa4FA/edit#heading=h.isgbkg2nlxu2), [binder](https://mybinder.org/v2/gh/krisrs1128/winter_school_code/HEAD?urlpath=rstudio)
 * Computing Tricks - Debugging, Profiling, and Code Style [Summer 2021] - [slides](https://drive.google.com/file/d/1H7vR29-DMG2G0YUYd9XBM-PejkPYfFC1/view?usp=sharing), [code](https://drive.google.com/file/d/1cYq4wMz_0VQrarWPKZcMH5FnybkVEEid/view?usp=sharing)
 * Practical Tips for Research Writing [Spring 2021] - [slides](https://drive.google.com/file/d/1sVn7wE8MOGBnCbJYd5vlNY9VTQsVJ7G0/view?usp=sharing)
