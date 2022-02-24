@@ -22,6 +22,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* Is a PhD right for me? [Winter 2022] - [slides](https://drive.google.com/file/d/1kq0xJ3XS98igzxFcJOTFUEz2DtoRByCg/view?usp=sharing)
 * Customizing Shiny User Interaces with HTML and CSS - Zhihao Lyu. [Bootstrap and bslib 101
 ](https://www.youtube.com/watch?v=YJCgUe5SS9M), [Easy Solution to Build Shiny UI with Bootstrap
 ](https://www.youtube.com/watch?v=w-TnXXt9d2k), [Intro to Browser Developer Tools
