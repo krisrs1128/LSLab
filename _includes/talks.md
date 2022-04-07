@@ -5,6 +5,8 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Xinran Miao, Hanying Jiang, Kris Sankaran. [Meditation and the Microbiome](https://drive.google.com/file/d/17xNjMA-pH70wM_gknUnM0A5gr0k87gAo/view?usp=sharing). Susan Holmes Group Meeting. April 2022.
+* Kris Sankaran. [Revisiting Iterative Data Structuration: Alignment, Refinement, and Simulation](https://drive.google.com/file/d/1ju9f8e8aRb5OYLE28Ub0Pc6i2KCpcjgN/view?usp=sharing). University of Pittsburgh Statistics Seminar. April 2022.
 * Kris Sankaran. [Generative Models and Experimental Design](https://drive.google.com/file/d/1OMIulBki_0an7Lwd0MKPGH1f0OdK0etH/view?usp=sharing). Susan Holmes Group Meeting. January 2022.
 * Kris Sankaran. [Multiscale Topic Visualization in the Microbiome](https://drive.google.com/file/d/14Lwhvd28sGEMSpw3AXZUsg8XXL25Gr4J/view?usp=sharing). ML + X Talks, UW Madison Data Science Hub. November 2021.
 * Kris Sankaran. [Multiscale Analysis of Count Data through Topic Alignment](https://drive.google.com/file/d/1vcs_aLp6gZFixenGscrj6C5koEltxvGa/view?usp=sharing) ([demo](https://www.google.com/url?sa=D&q=https://tinyurl.com/59k67sde&ust=1636123920000000&usg=AOvVaw1v1mjUJaAjkL7UkN9yofrG&hl=fr-CA)). McMaster Department of Mathematics and Statistics Seminar. November 2021.
