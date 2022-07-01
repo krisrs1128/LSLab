@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Xinran Miao, Hanying Jiang, Kris Sankaran. [Generative Approaches to Microbiome Mediation Analysis](https://drive.google.com/file/d/1n6gEubzFuIRRRYxGewY81k1ZdQS24oKg/view?usp=sharing). Susan Holmes Group Meeting. July 2022.
 * Xinran Miao, Hanying Jiang, Kris Sankaran. [Meditation and the Microbiome](https://drive.google.com/file/d/17xNjMA-pH70wM_gknUnM0A5gr0k87gAo/view?usp=sharing). Susan Holmes Group Meeting. April 2022.
 * Kris Sankaran. [Revisiting Iterative Data Structuration: Alignment, Refinement, and Simulation](https://drive.google.com/file/d/1ju9f8e8aRb5OYLE28Ub0Pc6i2KCpcjgN/view?usp=sharing). University of Pittsburgh Statistics Seminar. April 2022.
 * Kris Sankaran. [Generative Models and Experimental Design](https://drive.google.com/file/d/1OMIulBki_0an7Lwd0MKPGH1f0OdK0etH/view?usp=sharing). Susan Holmes Group Meeting. January 2022.
