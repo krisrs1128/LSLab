@@ -9,7 +9,7 @@ sectionid: team
     <div class="col-sm-6 col-md-8">
 	<h2 class="header-light regular-pad">Kris Sankaran</h2>
   I am an assistant professor in the <a href="https://stat.wisc.edu">Department of
-  Statistics</a> at the University of Wisconsin - Madison. I was previously a
+  Statistics</a> at the University of Wisconsin - Madison and a Discovery Fellow at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/). I completed a
   postdoc with Yoshua Bengio at <a href="https://mila.quebec">Mila</a>, where I
   contributed to the institute's <a
   href="https://mila.quebec/en/ai-society/">humanitarian AI</a> initiative and
@@ -21,7 +21,7 @@ sectionid: team
   understanding complex microbiome datasets.
 	<br><br>
   <a href="mailto:ksankaran@wisc.edu"><li class="fa fa-fw fa-2x fa-envelope"></li></a><a href="https://github.com/krisrs1128/"><li class="fa fa-lg fa-github"></li></a>
-  <a href="{{ "https://drive.google.com/file/d/154jCZKIaReqOed-DQFmvu2lC24ytJnXr/view?usp=sharing/assets/docs/cv.pdf" }}">CV</a>
+  <a href="{{ /assets/cv.pdf | prepend: site.url }}">CV</a>
 	<br><br>
 </div>
 <hr>
