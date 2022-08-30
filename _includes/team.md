@@ -9,7 +9,7 @@ sectionid: team
     <div class="col-sm-6 col-md-8">
 	<h2 class="header-light regular-pad">Kris Sankaran</h2>
   I am an assistant professor in the <a href="https://stat.wisc.edu">Department of
-  Statistics</a> at the University of Wisconsin - Madison and a Discovery Fellow at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/). I completed a
+  Statistics</a> at the University of Wisconsin - Madison and a Discovery Fellow at the <a href="https://wid.wisc.edu">Wisconsin Institute for Discovery</a>. I completed a
   postdoc with Yoshua Bengio at <a href="https://mila.quebec">Mila</a>, where I
   contributed to the institute's <a
   href="https://mila.quebec/en/ai-society/">humanitarian AI</a> initiative and
