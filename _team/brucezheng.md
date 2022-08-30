@@ -2,5 +2,5 @@
 layout: team
 name: Bruce Zheng
 title: MSDS Student
-home:
+alumni: January 2021 - August 2022
 ---
