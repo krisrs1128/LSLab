@@ -41,11 +41,11 @@
 
 ### Reflection
 
-1. It is one thing to *understand* robustness / resilience / adaptability in a system.
+1. It is one thing to *understand* robustness, resilience, and adaptability in a complex system.
 
-2. It is another thing to *engineer* these properties into a system.
+2. It is another thing to *engineer* these properties into one.
 
-3. In general, both problems can be complex, but for different reasons. I’ll share some statistical ideas that can help.
+3. In general, both problems are complex, but for different reasons. This talk will share statistical ideas that can help.
 
 ---
 
@@ -55,8 +55,8 @@
 
 
 
-1. Distillation: A few parameters in a model can reduce a large dataset to its essence. It is like data compression for humans.
-2. Manipulation: A good model helps us make predictions about the consequences of specific interventions. It can help us plan for the future.
+1. **Distillation**: A few parameters in a model can reduce a large dataset to its essence. It is like data compression for humans.
+2. **Manipulation**: A good model helps us make predictions about the consequences of specific interventions. It can help us plan for the future.
 
 Both activities are central to the process of discovery.
 
@@ -65,6 +65,8 @@ Both activities are central to the process of discovery.
 ]
 
 ---
+
+class: middle
 
 ## Vignette 1: Antibiotics and the Microbiome
 
@@ -91,8 +93,8 @@ microbiome perturbations (antibiotics `\(\approx\)` a flash flood or wildfire)
 [2], which took longitudinal species count
 from 3 subjects (52 - 56 timepoints)
 
-1. We drew inspiration from our collaborator's ecological metaphors for
-microbiome perturbations (antibiotics `\(\approx\)` a flash flood or wildfire)
+1. This study had been motivated by ecological metaphors for microbiome
+perturbations (antibiotics `\(\approx\)` a flash flood or wildfire)
 
 .center[
 &lt;img src="figures/adaptive-landscape-scenario-2.svg" width=700/&gt;
@@ -102,8 +104,8 @@ microbiome perturbations (antibiotics `\(\approx\)` a flash flood or wildfire)
 
 ### Initial Visualization
 
-It was helpful to explore the raw data, and we built a small interactive
-visualization package to help query which species were and were not strongly
+It was helpful to explore the raw data, and we built a small visualization
+package, `treelapse`, to help query which species were and were not strongly
 influenced by the perturbations.
 
 
@@ -181,6 +183,8 @@ instability or dysbiosis
 
 ---
 
+class: middle
+
 ## Vignette 2: Meditation and the Microbiome
 
 ---
@@ -188,8 +192,8 @@ instability or dysbiosis
 ### Hypothetical Reasoning
 
 1. Data alone are not enough — it is valuable to reason hypothetically
-1. We design experiments so that we can make effective predictions about the consequences of potential actions
-1. We need to switch from the compression to the manipulation perspective
+1. We use experiments in order to predict consequences of potential actions
+1. For this, we should switch from compression to manipulation 
 
 .center[
 &lt;img src="figures/hypothetical_curve.svg" width=650/&gt;
@@ -199,11 +203,11 @@ instability or dysbiosis
 
 ### Context and Data
 
-For concreteness, consider an ongoing study of mindfulness interventions from the Center for Healthy Minds.
+For concreteness, consider an ongoing study of mindfulness interventions at the Center for Healthy Minds.
 
 .pull-left[
 1. Half of participants have been randomly assigned to a mindfulness intervention group
-2. We will track participants over three timepoints, with a mindfulness intervention just before the second
+2. We will track them over three timepoints, with a mindfulness intervention just before the second
 ]
 
 .pull-right[
@@ -225,7 +229,7 @@ For concreteness, consider an ongoing study of mindfulness interventions from th
 
 1. Generative graphical models provide a language for clarifying the dependence
 relationships across measurements
-2. Linked variables are dependent, even after controlling the influence from all
+2. Linked variables are dependent after controlling the influence from 
 others
 
 .center[
