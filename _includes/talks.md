@@ -8,7 +8,7 @@ sectionid: talks
 * Kris Sankaran. [Visualization and Simulation in Microbial Community Analysis](https://krisrs1128.github.io/talks/2022/20221021/20221021.html). Indiana University Bloomington Statistics Colloquium. September 2022.
 * Kris Sankaran. [Notes - A Simple Measure of Conditional Independence](https://krisrs1128.github.io/talks/2022/20220930/20220930.html). Susan Holmes Group Meeting. September 2022.
 * Kris Sankaran. [Reasoning About Interventions: A Statistical Tour](https://krisrs1128.github.io/LSLab/assets/talks/20220928.html). Wisconsin Institute for Discovery Seminar. September 2022.
-* Kris Sankaran. [Latent Structure Lab Lightning Talk](https://krisrs1128.github.io/talks/2022/20220916/20220916.html). UW Madison Statistics Department Lightning Talks. September 2022.
+* Kris Sankaran. [Latent Structure Laboratory](https://krisrs1128.github.io/talks/2022/20220916/20220916.html). UW Madison Statistics Department Lightning Talks. September 2022.
 * Xinran Miao, Hanying Jiang, Kris Sankaran. [Generative Approaches to Microbiome Mediation Analysis](https://drive.google.com/file/d/1n6gEubzFuIRRRYxGewY81k1ZdQS24oKg/view?usp=sharing). Susan Holmes Group Meeting. July 2022.
 * Xinran Miao, Hanying Jiang, Kris Sankaran. [Meditation and the Microbiome](https://drive.google.com/file/d/17xNjMA-pH70wM_gknUnM0A5gr0k87gAo/view?usp=sharing). Susan Holmes Group Meeting. April 2022.
 * Kris Sankaran. [Revisiting Iterative Data Structuration: Alignment, Refinement, and Simulation](https://drive.google.com/file/d/1ju9f8e8aRb5OYLE28Ub0Pc6i2KCpcjgN/view?usp=sharing). University of Pittsburgh Statistics Seminar. April 2022.
