@@ -12,7 +12,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Courses
 
-* STAT 679 [Fall 2022] [Statistical Data Visualization](https://krisrs1128.github.io/stat679_notes/) - [exercises](https://github.com/krisrs1128/stat679_code/raw/main/exercises/exercises.pdf)
+* STAT 679 [Fall 2022] [Statistical Data Visualization](https://krisrs1128.github.io/stat679_notes/) - [exercises](https://github.com/krisrs1128/stat679_code/raw/main/exercises/exercises.pdf), [recordings](https://www.youtube.com/playlist?list=PLhax_7Mawcfk1GEl_vOg7cE_vtRTsqMWw)
 * STAT 479 [Spring 2022] [Statistical Data Visualization](https://github.com/krisrs1128/stat479_s22/) - [student portfolios](https://krisrs1128.github.io/portfolio_site_s22/), [exercises](https://github.com/krisrs1128/stat479_s22/blob/main/exercises/exercises.pdf)
 * STAT 424 [Fall 2021] [Statistical Experimental Design](https://krisrs1128.github.io/stat424_f21/)
 * STAT 479 [Spring 2021] [Statistical Data Visualization](https://krisrs1128.github.io/stat479/)
