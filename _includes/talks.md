@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran. [Microbiome Studies: Design, Infrastructure, and Inference](https://krisrs1128.github.io/talks/2022/20221128/20221128.html). MSTP M2 Journal Club. November 2022.
 * Kris Sankaran. [Visualization and Simulation in Microbial Community Analysis](https://krisrs1128.github.io/talks/2022/20221021/20221021.html). Indiana University Bloomington Statistics Colloquium. September 2022.
 * Kris Sankaran. [Notes - A Simple Measure of Conditional Independence](https://krisrs1128.github.io/talks/2022/20220930/20220930.html). Susan Holmes Group Meeting. September 2022.
 * Kris Sankaran. [Reasoning About Interventions: A Statistical Tour](https://krisrs1128.github.io/LSLab/assets/talks/20220928.html). Wisconsin Institute for Discovery Seminar. September 2022.
