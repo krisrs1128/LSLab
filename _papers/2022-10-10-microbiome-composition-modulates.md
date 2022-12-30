@@ -1,3 +1,4 @@
+---
 layout: paper
 title: Microbiome composition modulates secondary metabolism in a multispecies bacterial community
 authors: Marc G. Chevrette, Chris S. Thomas, Amanda Hurley, Natalia Rosario-Meléndez, Kris Sankaran, Yixing Tu, Austin Hall, Shruthi Magesh, and Jo Handelsman
@@ -7,3 +8,4 @@ journal: Proceedings of the National Academy of Sciences
 pdfurl: /assets/papers/pnas.2212930119.pdf
 code: https://github.com/chevrm/thor_secmet
 journalurl: https://www.pnas.org/doi/full/10.1073/pnas.2212930119
+---
