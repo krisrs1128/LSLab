@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran. [Transfer Function Modeling of Microbial Community Shifts](https://krisrs1128.github.io/talks/2023/20230414/20230414.html#1). Susan Holmes Group Meeting. April 2023.
 * Kris Sankaran. [Evaluating Causal Microbiome Models](https://krisrs1128.github.io/talks/2023/20230120/20230120.html). Susan Holmes Group Meeting. January 2023.
 * Kris Sankaran. [Generative Models for Microbiome Mediation Analysis](https://krisrs1128.github.io/talks/2022/20221217/20221217.html). CMStatistics. December 2022.
 * Kris Sankaran. [Microbiome Studies: Design, Infrastructure, and Inference](https://krisrs1128.github.io/talks/2022/20221128/20221128.html). MSTP M2 Journal Club. November 2022.
