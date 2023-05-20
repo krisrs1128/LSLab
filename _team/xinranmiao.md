@@ -2,5 +2,5 @@
 layout: team
 name: Xinran Miao
 title: PhD student
-profile: "assets/img/profiles/xinranmiao.jpg"
+alumni: August 2020 - April 2023
 ---

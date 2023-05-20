@@ -21,7 +21,7 @@ public, contact us if you have trouble accessing anything.
 * STAT 424 [Fall 2020] Statistical Experimental Design - [notes](https://drive.google.com/drive/folders/1rnJlAXs57WyMcTzwQ5HNT_eCecEI3gQh), [recordings](https://mediaspace.wisc.edu/channel/STAT+424+Fall+2020/180027062)
 * IFT6758 [Fall 2019] [Introduction to Data Science](https://ift6758.github.io)
 * [Humanitarian AI Reading Group](https://github.com/krisrs1128/Humanitarian-AI) [Fall 2018 - Spring 2019]
-* STAT 390 [Summer 2017] Statistical Consulting Workshop - [notes](https://www.overleaf.com/10240923zrkwyvndkwnn#/37916755/)
+* STAT 390 [Summer 2017] Statistical Consulting Workshop - [notes](https://www.overleaf.com/read/fcgtqxvdrcsj/)
 
 ### Tutorials
 
