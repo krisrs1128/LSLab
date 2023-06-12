@@ -21,7 +21,7 @@ sectionid: team
   understanding complex microbiome datasets.
 	<br><br>
   <a href="mailto:ksankaran@wisc.edu"><li class="fa fa-fw fa-2x fa-envelope"></li></a><a href="https://github.com/krisrs1128/"><li class="fa fa-lg fa-github"></li></a>
-  <a href="{{ /assets/cv.pdf | prepend: site.url }}">CV</a>
+  <a href="https://krisrs1128.github.io/LSLab/assets/cv.pdf">CV</a>
 	<br><br>
 </div>
 <hr>
