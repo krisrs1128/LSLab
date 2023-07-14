@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran. [Selective Inference for Computational Genomics](https://go.wisc.edu/7l1k95). Computational Genomics Summer Institute. July 2023.
 * Kris Sankaran. [Ecosystem Modeling using Multimodal Data](https://krisrs1128.github.io/talks/2023/20230705/20230705.html). Microsoft AI for Good Lab. July 2023.
 * Kris Sankaran. [Transfer Function Modeling of Microbial Community Shifts](https://krisrs1128.github.io/talks/2023/20230414/20230414.html#1). Susan Holmes Group Meeting. April 2023.
 * Kris Sankaran. [Evaluating Causal Microbiome Models](https://krisrs1128.github.io/talks/2023/20230120/20230120.html). Susan Holmes Group Meeting. January 2023.
