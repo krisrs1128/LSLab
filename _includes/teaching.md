@@ -25,6 +25,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [DSN AI Bootcamp - ML Foundations [Summer 2023]](http://krisrs1128.github.io/dsn_foundations_2023)
 * [NAAMII Summer School - ML Foundations [Summer 2023]](http://krisrs1128.github.io/naamii_summer_2023)
 * Is a PhD right for me? [Winter 2022] - [slides](https://drive.google.com/file/d/1kq0xJ3XS98igzxFcJOTFUEz2DtoRByCg/view?usp=sharing)
 * Customizing Shiny User Interaces with HTML and CSS - Zhihao Lyu. [Bootstrap and bslib 101
