@@ -5,9 +5,10 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran [Microbiome Data Science](https://go.wisc.edu/uhka79). UW Madison Statistics Department Lightning Talks. September 2023.
 * Kris Sankaran. [Generative Models for Microbiome Mediation Analysis](https://drive.google.com/file/d/1lQBb665vsyILnknqMdGZMPkj-7Nhhgqw/view?usp=drive_link). Joint Statistical Meetings. August 2023.
 * Kris Sankaran. [Generative Models for Microbiome Mediation Analysis](https://go.wisc.edu/77q6rs). EcoSta. August 2023.
-* Kris Sankaran. [Selective Inference for Computational Genomics](https://go.wisc.edu/7l1k95). Computational Genomics Summer Institute. July 2023.
+* Kris Sankaran. [Selective Inference for Computational Genomics](https://go.wisc.edu/7l1k95) ([recording](https://www.youtube.com/watch?v=80nCS5YQVLI)). Computational Genomics Summer Institute. July 2023.
 * Kris Sankaran. [Ecosystem Modeling using Multimodal Data](https://krisrs1128.github.io/talks/2023/20230705/20230705.html). Microsoft AI for Good Lab. July 2023.
 * Kris Sankaran. [Transfer Function Modeling of Microbial Community Shifts](https://krisrs1128.github.io/talks/2023/20230414/20230414.html#1). Susan Holmes Group Meeting. April 2023.
 * Kris Sankaran. [Evaluating Causal Microbiome Models](https://krisrs1128.github.io/talks/2023/20230120/20230120.html). Susan Holmes Group Meeting. January 2023.

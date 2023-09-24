@@ -12,6 +12,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Courses
 
+* STAT 992 [Fall 2023] [Statistical Data Visualization](https://krisrs1128.github.io/stat992_f23/website/docs) - [code](https://github.com/krisrs1128/stat992_f23)
 * STAT 992 [Spring 2023] [Multi-Omics Data Analysis](https://krisrs1128.github.io/stat992_s23/)
 * STAT 436 [Spring 2023] [Statistical Data Visualization](https://krisrs1128.github.io/stat436_s23/) - [exercises](https://github.com/krisrs1128/stat436_s23/blob/main/activities/exercises.pdf), [code](https://github.com/krisrs1128/stat436_s23)
 * STAT 679 [Fall 2022] [Statistical Data Visualization](https://krisrs1128.github.io/stat679_notes/) - [exercises](https://github.com/krisrs1128/stat679_code/raw/main/exercises/exercises.pdf), [code](https://github.com/krisrs1128/stat679_code), [recordings](https://www.youtube.com/playlist?list=PLhax_7Mawcfk1GEl_vOg7cE_vtRTsqMWw)
