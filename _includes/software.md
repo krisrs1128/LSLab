@@ -7,9 +7,7 @@ sectionid: software
 
 ### Microbiome Data Analysis
 
-* [mbtransfer](https://krisrs1128.github.io/mbtransfer/) - An R package for
-* modeling and inference of microbial communities under dynamic environmental
-* interventions.
+* [mbtransfer](https://krisrs1128.github.io/mbtransfer/) - An R package for modeling and inference of microbial communities under dynamic environmental interventions.
 * [alto](https://lasy.github.io/alto/) - An R package for multiresolution alignment of topic models. See also the [binder examples](https://mybinder.org/v2/gh/krisrs1128/alto_demo/HEAD?urlpath=rstudio).
 * [NBFvis](https://github.com/XTH1114/NBFvis/) - An R package for neighborhood-informed interactive visualization in spatial 'omics.
 * [treelapse](https://krisrs1128.github.io/treelapse/) - An R package for interactive visualization of time series that can be arranged onto trees
