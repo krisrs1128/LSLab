@@ -5,8 +5,10 @@ permalink: /talks/
 sectionid: talks
 ---
 
-* Kris Sankaran [Beyond Black Box Simulation](https://go.wisc.edu/fg7wr4). ASA Section on Statistical Computing Mini-Symposium. November 2023.
-* Kris Sankaran [Microbiome Data Science](https://go.wisc.edu/uhka79). UW Madison Statistics Department Lightning Talks. September 2023.
+* Kris Sankaran. [Visualization in Deep Learning: Theme and Variations](https://go.wisc.edu/9p83o9). UW Machine Learning Lunch Meetings. November 2023.
+* Kris Sankaran. [Interactive Multiview Data Science](https://go.wisc.edu/02jao8). Wisconsin Institute for Discovery Symposium. November 2023.
+* Kris Sankaran. [Beyond Black Box Simulation](https://go.wisc.edu/fg7wr4). ASA Section on Statistical Computing Mini-Symposium. November 2023.
+* Kris Sankaran. [Microbiome Data Science](https://go.wisc.edu/uhka79). UW Madison Statistics Department Lightning Talks. September 2023.
 * Kris Sankaran. [Generative Models for Microbiome Mediation Analysis](https://drive.google.com/file/d/1lQBb665vsyILnknqMdGZMPkj-7Nhhgqw/view?usp=drive_link). Joint Statistical Meetings. August 2023.
 * Kris Sankaran. [Generative Models for Microbiome Mediation Analysis](https://go.wisc.edu/77q6rs). EcoSta. August 2023.
 * Kris Sankaran. [Selective Inference for Computational Genomics](https://go.wisc.edu/7l1k95) ([recording](https://www.youtube.com/watch?v=80nCS5YQVLI)). Computational Genomics Summer Institute. July 2023.
