@@ -5,8 +5,8 @@ permalink: /talks/
 sectionid: talks
 ---
 
-* Kris Sankaran. [Expressive Interfaces for Multi-omics Simulation](). ([quarto](https://go.wisc.edu/62eh36), [colab](https://go.wisc.edu/u5a94m), [visualization](https://go.wisc.edu/q43ol3))
-* Kris Sankaran [Student Satisfaction with R vs. Excel in Data Mining and Business Analytics: A Herzberg’s Motivation-Hygiene Theory Perspective](https://github.com/krisrs1128/talks/blob/master/2023/20231118/dsi-kris.pptx). Decision Sciences Institute. November 2023.
+* Kris Sankaran. [Expressive Interfaces for Multi-omics Simulation](). ([quarto](https://go.wisc.edu/62eh36), [colab](https://go.wisc.edu/u5a94m), [visualization](https://go.wisc.edu/q43ol3)). UW Madison Statistics Seminar. December 2023.
+* Kris Sankaran [Student Satisfaction with R vs. Excel in Data Mining and Business Analytics](https://github.com/krisrs1128/talks/blob/master/2023/20231118/dsi-kris.pptx). Decision Sciences Institute. November 2023.
 * Kris Sankaran. [Visualization in Deep Learning: Theme and Variations](https://go.wisc.edu/9p83o9). UW Machine Learning Lunch Meetings. November 2023.
 * Kris Sankaran. [Interactive Multiview Data Science](https://go.wisc.edu/02jao8). Wisconsin Institute for Discovery Symposium. November 2023.
 * Kris Sankaran. [Beyond Black Box Simulation](https://go.wisc.edu/fg7wr4). ASA Section on Statistical Computing Mini-Symposium. November 2023.
