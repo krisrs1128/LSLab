@@ -26,6 +26,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [BME 780 Guest Lecture - Multiple Testing in Quantitative Biology [Fall 2023]](https://krisrs1128.github.io/talks/2023/20231010/20231010.html#1)
 * [DSN AI Bootcamp - ML Foundations [Summer 2023]](http://krisrs1128.github.io/dsn_foundations_2023)
 * [NAAMII Summer School - ML Foundations [Summer 2023]](http://krisrs1128.github.io/naamii_summer_2023)
 * Is a PhD right for me? [Winter 2022] - [slides](https://drive.google.com/file/d/1kq0xJ3XS98igzxFcJOTFUEz2DtoRByCg/view?usp=sharing)
