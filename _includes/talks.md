@@ -9,9 +9,9 @@ If you will be at any of these upcoming conferences/workshops, please do reach o
 
 * Kris Sankaran [Simulation in Microbiome Analysis: From Design to Inference]. Joint Statistical Meetings. Planned August 2024.
 * Kris Sankaran [Interactive and Interpretable Multi-Omics Analysis]. Computational Genomics Summer Institute. Planned July 2024.
-* Kris Sankaran [Simulation in Microbiome Analysis: From Design to Inference]. STATGEN 2024. Planned May 2024.
+* Kris Sankaran [Multiscale Analysis of Microbiome Data with Alto]. STATGEN 2024. Planned May 2024.
 * Kris Sankaran [Interpretability: What's Possible? What's Next?](https://krisrs1128.github.io/talks/2024/20240212/20240212.html). BIRS Workshop on Statistical Aspects of Trustworthy Machine Learning. Planned February 2024.
-* Kris Sankaran. [Simulation in Omics](https://github.com/krisrs1128/talks/blob/master/2024/20240207/20240207.Rmd). UW Methods for Biological Data Workshop. February 2024. 
+* Kris Sankaran. [Simulation in Omics](https://krisrs1128.github.io/talks/2024/20240207/20240207.html#1). ([quarto](https://connect.doit.wisc.edu/content/f01c0d0c-ef3a-4129-bfcd-eb17ae109a89/simulation.html), [colab](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing)). UW Methods for Biological Data Workshop. February 2024. 
 * Kris Sankaran. [Statistical and Computational Challenges in Phylogenetic Inference (Faculty Introduction)](https://krisrs1128.github.io/talks/2024/20240131/20240131.html#1). Wisconsin Institute for Discovery Seminar Series. January 2024.
 * Kris Sankaran. [Interpretability: Beyond Black and White](https://github.com/krisrs1128/talks/blob/master/2024/20240119/20240119.pptx). Susan Holmes Group Meeting. January 2024.
 * Kris Sankaran. [Expressive Interfaces for Multi-omics Simulation](https://go.wisc.edu/4y9176). ([quarto](https://go.wisc.edu/62eh36), [colab](https://go.wisc.edu/u5a94m), [visualization](https://go.wisc.edu/q43ol3)). UW Madison Statistics Seminar. December 2023.
