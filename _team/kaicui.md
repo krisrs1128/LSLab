@@ -1,6 +1,6 @@
 ---
 layout: team
-name: Ka Cui
+name: Kai Cui
 title: MSDS Student
 home:
 ---
