@@ -1,0 +1,10 @@
+---
+layout: paper
+title: "multimedia: Multimodal Mediation Analysis of Microbiome Data"
+authors: Hanying Jiang, Xinran Miao, Margaret W. Thairu, Mara Beebe, Dan W. Grupe, Richard J. Davidson, Jo Handelsman, and Kris Sankaran 
+image: /assets/img/multimedia_figure.png
+abstract: Mediation analysis has emerged as a versatile tool for answering mechanistic questions in microbiome research because it provides a statistical framework for attributing treatment effects to alternative causal pathways. Using a series of linked regression models, this analysis quantifies how complementary data modalities relate to one another and respond to treatments.  Despite these advances, the rigid modeling assumptions of existing software often results in users viewing mediation analysis as a black box, not something that can be inspected, critiqued, and refined. We designed the multimedia R package to make advanced mediation analysis techniques accessible to a wide audience, ensuring that all statistical components are easily interpretable and adaptable to specific problem contexts. The package provides a uniform interface to direct and indirect effect estimation, synthetic null hypothesis testing, and bootstrap confidence interval construction. We illustrate the package through two case studies. The first re-analyzes a study of the microbiome and metabolome of Inflammatory Bowel Disease patients, uncovering potential mechanistic interactions between the microbiome and disease-associated metabolites, not found in the original study. The second analyzes new data about the influence of mindfulness practice on the microbiome. The mediation analysis identifies a direct effect between a randomized mindfulness intervention and microbiome composition, highlighting shifts in taxa previously associated with depression that cannot be explained by diet or sleep behaviors alone. A gallery of examples and further documentation can be found at \href{https://go.wisc.edu/830110}{https://go.wisc.edu/830110}.
+pdfurl: https://www.biorxiv.org/content/10.1101/2024.03.27.587024v1.full.pdf
+code: https://github.com/krisrs1128/multimedia
+journal: Under Review
+---
