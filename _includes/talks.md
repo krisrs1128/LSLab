@@ -9,6 +9,10 @@ If you will be at any of these upcoming conferences/workshops, please do reach o
 
 * Kris Sankaran [Simulation in Microbiome Analysis: From Design to Inference](). Joint Statistical Meetings. Planned August 2024.
 * Kris Sankaran [Interactive and Interpretable Multi-Omics Analysis](). Computational Genomics Summer Institute. Planned July 2024.
+* Kris Sankaran [Semisynthetic Simulation for Biological Data Analysis: Integrative Analysis](). Melbourne Integrative Genomics Workshop. June 2024.
+* Kris Sankaran [Semisynthetic Simulation for Biological Data Analysis: Multivariate Analysis](). Melbourne Integrative Genomics Workshop. June 2024.
+* Kris Sankaran [Semisynthetic Simulation for Biological Data Analysis: Marginal Modeling](). Melbourne Integrative Genomics Workshop. June 2024.
+* Kris Sankaran [Transparent Synthetic Data Generation](https://krisrs1128.github.io/talks/2024/20240531/20240531.html#1). Melbourne Integrative Genomics Seminar. May 2024.
 * Kris Sankaran [Multiscale Analysis of Microbiome Data with Alto](https://krisrs1128.github.io/talks/2024/20240503/20240503.html#1). STATGEN 2024. May 2024.
 * Kris Sankaran [Integrated Views of HIV Acquisition Risk](https://go.wisc.edu/wi1952). Susan Holmes Group Meeting. April 2024.
 * Kris Sankaran [Transparent Synthetic Data Generation](https://go.wisc.edu/694o2e). Machine Learning Lunch Meetings. April 2024.
