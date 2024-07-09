@@ -8,7 +8,8 @@ sectionid: talks
 If you will be at any of these upcoming conferences/workshops, please reach out! I'm always happy to discuss research.
 
 * Kris Sankaran [Simulation in Microbiome Analysis: From Design to Inference](). Joint Statistical Meetings. Planned August 2024.
-* Kris Sankaran [Interactive and Interpretable Multi-Omics Analysis](). Computational Genomics Summer Institute. Planned July 2024.
+* Kris Sankaran [Interactive and Interpretable Multi-Omics Analysis](https://go.wisc.edu/8k8r2q). Computational Genomics Summer Institute. Planned July 2024.
+* Kris Sankaran [Trustworthy and Adaptable Biological Data Integration](https://go.wisc.edu/8k8r2q). July 2024.
 * Kris Sankaran [Interactivity, Interpretability, and Generative Models](https://go.wisc.edu/3u4m16). INFORMS ALIO-ASOCIO. ([recording](https://youtu.be/UaYfwzkWq1Q)). June 2024.
 * Kris Sankaran [Semisynthetic Simulation for Biological Data Analysis: Integrative Analysis](https://go.wisc.edu/54tmr9). ([notebooks](https://github.com/krisrs1128/intro-to-simulation/)). Melbourne Integrative Genomics Workshop. June 2024.
 * Kris Sankaran [Semisynthetic Simulation for Biological Data Analysis: Multivariate Analysis](https://go.wisc.edu/rc776i). ([notebooks](https://github.com/krisrs1128/intro-to-simulation/)). Melbourne Integrative Genomics Workshop. June 2024.
