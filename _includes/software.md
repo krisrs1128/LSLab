@@ -8,6 +8,7 @@ sectionid: software
 ### Microbiome Data Analysis
 
 * [multimedia](https://krisrs1128.github.io/multimedia) - An R package for microbiome data integration using causal mediation analysis.
+* [miniLNM](https://krisrs1128.github.io/miniLNM) - A lightweight implementation of the logistic-normal multinomial model for analysis of multivariate count data.
 * [molpad](https://kaiyanm.github.io/MolPad/) - Interactive visualization of longitudinal data using the focus-plus-context principle.
 * [mbtransfer](https://krisrs1128.github.io/mbtransfer/) - An R package for modeling and inference of microbial communities under dynamic environmental interventions.
 * [alto](https://lasy.github.io/alto/) - An R package for multiresolution alignment of topic models. See also the [binder examples](https://mybinder.org/v2/gh/krisrs1128/alto_demo/HEAD?urlpath=rstudio).
