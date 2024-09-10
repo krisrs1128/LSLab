@@ -7,6 +7,7 @@ sectionid: talks
 
 If you will be at any of these upcoming conferences/workshops, please reach out! I'm always happy to discuss research.
 
+* Kris Sankaran [Microbiome Data Science](https://go.wisc.edu/05h9p7). UW Madison Statistics Department Lightning Talks. September 2024.
 * Kris Sankaran [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/h5ow0o). Joint Statistical Meetings. August 2024.
 * Kris Sankaran [Topic Models for Multiscale Analysis](https://go.wisc.edu/6y38gg). Computational Genomics Summer Institute. July 2024.
 * Kris Sankaran [Interactivity for Interpretable Machine Learning](https://go.wisc.edu/pl9a65). Computational Genomics Summer Institute. July 2024.
