@@ -27,6 +27,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2024]](https://krisrs1128.github.io/talks/2024/20241023/20241023.html#1)
 * [BME 780 Guest Lecture - Multiple Testing in Quantitative Biology [Fall 2023]](https://krisrs1128.github.io/talks/2023/20231010/20231010.html#1)
 * [DSN AI Bootcamp - ML Foundations [Summer 2023]](http://krisrs1128.github.io/dsn_foundations_2023)
 * [NAAMII Summer School - ML Foundations [Summer 2023]](http://krisrs1128.github.io/naamii_summer_2023)
