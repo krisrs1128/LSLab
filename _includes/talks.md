@@ -7,6 +7,8 @@ sectionid: talks
 
 If you will be at any of these upcoming conferences/workshops, please reach out! I'm always happy to discuss research.
 
+* Kris Sankaran [Interpretable and Interactive Machine Learning](https://docs.google.com/document/u/1/d/1IIu7lEmvBSqQhB5hQQrmus7JN-g-rCS6_HNcNcphlq8/edit?tab=t.0). IISA 2024. December 2024.
+* Kris Sankaran [Topic Models for Multiscale Analysis](https://go.wisc.edu/337726). IISA 2024. December 2024.
 * Kris Sankaran [Microbiome Data Science](https://go.wisc.edu/05h9p7). UW Madison Statistics Department Lightning Talks. September 2024.
 * Kris Sankaran [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/h5ow0o). Joint Statistical Meetings. August 2024.
 * Kris Sankaran [Topic Models for Multiscale Analysis](https://go.wisc.edu/6y38gg). Computational Genomics Summer Institute. July 2024.
