@@ -2,5 +2,5 @@
 layout: team
 name: Kobe Uko
 title: WISCERS student
-home:
+home: February - June 2024
 ---
