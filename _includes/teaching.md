@@ -12,6 +12,9 @@ public, contact us if you have trouble accessing anything.
 
 ### Courses
 
+* STAT 992 [Spring 2025] [Interpretable and Explainable Machine Learning](https://github.com/krisrs1128/stat992_s25)
+* STAT 436 [Spring 2025] [Statistical Data Visualization](https://krisrs1128.github.io/stat436_s25) - [exercises](https://github.com/krisrs1128/stat436_s25/blob/main/exercises/exercises.pdf), [code](https://github.com/krisrs1128/stat436_s25)
+* STAT 436 [Fall 2024] [Statistical Data Visualization](https://krisrs1128.github.io/stat436_f24) - [exercises](https://github.com/krisrs1128/stat436_f24/blob/main/exercises/exercises.pdf), [code](https://github.com/krisrs1128/stat436_f24)
 * STAT 436 [Spring 2024] [Statistical Data Visualization](https://krisrs1128.github.io/stat436_s24) - [exercises](https://github.com/krisrs1128/stat436_s24/blob/main/exercises/exercises.pdf), [code](https://github.com/krisrs1128/stat436_s24)
 * STAT 992 [Fall 2023] [Statistical Data Visualization](https://krisrs1128.github.io/stat992_f23/website/docs) - [code](https://github.com/krisrs1128/stat992_f23)
 * STAT 992 [Spring 2023] [Multi-Omics Data Analysis](https://krisrs1128.github.io/stat992_s23/)
@@ -27,6 +30,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [Invitation to Data Visualization [Spring 2025]](https://krisrs1128.github.io/talks/2025/20250205/20250205.html)
 * [DSN AI Bootcamp - ML Foundations [Fall 2024]](http://krisrs1128.github.io/dsn_foundations_2024)
 * [BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2024]](https://krisrs1128.github.io/talks/2024/20241023/20241023.html#1)
 * [BME 780 Guest Lecture - Multiple Testing in Quantitative Biology [Fall 2023]](https://krisrs1128.github.io/talks/2023/20231010/20231010.html#1)

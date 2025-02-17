@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran [Enhancing Microbiome Analysis with Semisynthetic Data](https://krisrs1128.github.io/talks/2025/20250218/20250218.html). UW-Madison Plant Pathology Seminar. February 2025.
 * Kris Sankaran [Visualizing Microbiome Data](https://krisrs1128.github.io/talks/2025/20250115/20250115.html#1). AHRI Seminar. January 2025.
 * Kris Sankaran [Interpretable and Interactive Machine Learning](https://docs.google.com/document/u/1/d/1IIu7lEmvBSqQhB5hQQrmus7JN-g-rCS6_HNcNcphlq8/edit?tab=t.0). IISA 2024. December 2024.
 * Kris Sankaran [Topic Models for Multiscale Analysis](https://go.wisc.edu/337726). IISA 2024. December 2024.
