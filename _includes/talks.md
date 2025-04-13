@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/z3tx91). Machine Learning Lunch Meetings. April 2025.
 * Kris Sankaran [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/46xtw9). MCBIOS Orchestrating the Microbiome Symphony. March 2025.
 * Kris Sankaran [Topic Models for Microbiome Analysis](https://krisrs1128.github.io/talks/2025/20250226/20250226.html). VUMC Biostatistics Seminar. February 2025.
 * Kris Sankaran [Enhancing Microbiome Analysis with Semisynthetic Data](https://krisrs1128.github.io/talks/2025/20250218/20250218.html). UW-Madison Plant Pathology Seminar. February 2025.
