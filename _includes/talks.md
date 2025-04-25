@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* Kris Sankaran [Multiscale Topic Modeling with the Alto Package](https://go.wisc.edu/9q5ls4). Symposium on Data Science and Statistics. April 2025.
 * Kris Sankaran [Multiscale Topic Modeling with Alto](https://go.wisc.edu/54f161). CGSI Virtual Class. April 2025.
 * Kris Sankaran [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/z3tx91). Machine Learning Lunch Meetings. April 2025.
 * Kris Sankaran [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/46xtw9). MCBIOS Orchestrating the Microbiome Symphony. March 2025.
