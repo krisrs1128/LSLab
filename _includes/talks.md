@@ -5,7 +5,9 @@ permalink: /talks/
 sectionid: talks
 ---
 
-* [Semisynthetic Controls and Cancer Microbiome Analysis](https://go.wisc.edu/02hl09). ICSA 2025. June 2025.
+* [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/5ms623). BIRS Workshop - Novel Statistical Approaches for Studying Multi-omics Data. July 2025.
+* [Towards Veridical Microbiome Analysis through Semisynthetic Data](https://go.wisc.edu/5q8xvl). Veridical Data Science for Biology. July 2025.
+* [Semisynthetic Controls and Cancer Microbiome Analysis](https://gowisc.edu/02hl09). ICSA 2025. June 2025.
 * [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/y74jh3). IISA 2025. June 2025.
 * [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/46xtw9). STATGEN 2025. May 2025.
 * [Multiscale Topic Modeling with the Alto Package](https://go.wisc.edu/9q5ls4). Symposium on Data Science and Statistics. April 2025.
