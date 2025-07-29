@@ -7,8 +7,8 @@ sectionid: talks
 
 * [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/). EcoSta. August 2025.
 * [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/). ICIBM. August 2025.
-* [Interpretable and Interactive Machine Learning](https://go.wisc.edu/). USC Data Science and Operations. July 2025.
-* [Managing Batch Effects in Biological Data](https://go.wisc.edu/). Computational Genomics Summer Institute. July 2025.
+* [Managing Batch Effects in Biological Data](https://go.wisc.edu/qjn8us). Computational Genomics Summer Institute. July 2025.
+* [Interpretable and Interactive Machine Learning](https://go.wisc.edu/vzhdt1). USC Data Science and Operations. July 2025.
 * [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/a9k4zo). Computational Genomics Summer Institute. July 2025.
 * [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/5ms623). BIRS Workshop - Novel Statistical Approaches for Studying Multi-omics Data. July 2025.
 * [Towards Veridical Microbiome Analysis through Semisynthetic Data](https://go.wisc.edu/5q8xvl). Veridical Data Science for Biology. July 2025.
