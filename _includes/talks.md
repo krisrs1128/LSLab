@@ -5,7 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
-* [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/). EcoSta. August 2025.
+* [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/7kgrbo). EcoSta. August 2025.
 * [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/4gl0is). GSTP Retreat. August 2025.
 * [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/padl48). useR! 2025. August 2025.
 * [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/pb531s). ICIBM. August 2025.
