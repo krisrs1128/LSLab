@@ -31,6 +31,7 @@ public, contact us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2025]](https://krisrs1128.github.io/talks/2025/20251008/20251008.html#1)
 * [Invitation to Data Visualization [Spring 2025]](https://krisrs1128.github.io/talks/2025/20250205/20250205.html)
 * [DSN AI Bootcamp - ML Foundations [Fall 2024]](http://krisrs1128.github.io/dsn_foundations_2024)
 * [BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2024]](https://krisrs1128.github.io/talks/2024/20241023/20241023.html#1)
