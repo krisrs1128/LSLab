@@ -8,9 +8,9 @@ sectionid: talks
 * [Microbiome Data Science](https://go.wisc.edu/99ndjd). UW Madison Statistics Department Lightning Talks. September 2025.
 * [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/7kgrbo). EcoSta. August 2025.
 * [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/4gl0is). GSTP Retreat. August 2025.
-* [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/padl48). useR! 2025. August 2025.
-* [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/pb531s). ICIBM. August 2025.
-* [Managing Batch Effects in Biological Data](https://go.wisc.edu/qjn8us). Computational Genomics Summer Institute. July 2025.
+* [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/padl48). useR! 2025 ([recording](https://www.youtube.com/watch?v=I5TVpPiQKYw)). August 2025.
+* [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/pb531s). ICIBM ([recording](https://www.youtube.com/watch?v=Xq8Kh84rWMM)). August 2025.
+* [Managing Batch Effects in Biological Data](https://go.wisc.edu/qjn8us). Computational Genomics Summer Institute ([recording](https://www.youtube.com/watch?v=tRf-SXe5TuQ&t=318s)). July 2025.
 * [Interpretable and Interactive Machine Learning](https://go.wisc.edu/vzhdt1). USC Data Science and Operations. July 2025.
 * [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/a9k4zo). Computational Genomics Summer Institute. July 2025.
 * [Modular Software for Mediation Analysis of Microbiome Data](https://go.wisc.edu/5ms623). BIRS Workshop - Novel Statistical Approaches for Studying Multi-omics Data. July 2025.
@@ -30,7 +30,7 @@ sectionid: talks
 * [Microbiome Data Science](https://go.wisc.edu/05h9p7). UW Madison Statistics Department Lightning Talks. September 2024.
 * [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/h5ow0o). Joint Statistical Meetings. August 2024.
 * [Topic Models for Multiscale Analysis](https://go.wisc.edu/6y38gg). Computational Genomics Summer Institute. July 2024.
-* [Interactivity for Interpretable Machine Learning](https://go.wisc.edu/pl9a65). Computational Genomics Summer Institute. July 2024.
+* [Interactivity for Interpretable Machine Learning](https://go.wisc.edu/pl9a65). Computational Genomics Summer Institute ([recording](https://www.youtube.com/watch?v=NHacrfXcl98)). July 2024.
 * [Trustworthy and Adaptable Biological Data Integration](https://go.wisc.edu/8k8r2q). July 2024.
 * [Interactivity, Interpretability, and Generative Models](https://go.wisc.edu/3u4m16). INFORMS ALIO-ASOCIO. ([recording](https://youtu.be/UaYfwzkWq1Q)). June 2024.
 * [Semisynthetic Simulation for Biological Data Analysis: Integrative Analysis](https://go.wisc.edu/54tmr9). ([notebooks](https://github.com/krisrs1128/intro-to-simulation/)). Melbourne Integrative Genomics Workshop. June 2024.
