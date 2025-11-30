@@ -5,10 +5,10 @@ permalink: /teaching/
 sectionid: teaching
 ---
 
-We've prepared a number of teaching materials related to statistics, data
-science, visualization, and deep learning. I try to include many examples and
-sketches to better understand where ideas come from. All materials should be
-public, contact us if you have trouble accessing anything.
+We've prepared teaching materials related to statistics, data science,
+visualization, and deep learning. I try to include many examples and sketches to
+better understand where ideas come from. All materials should be public, contact
+us if you have trouble accessing anything.
 
 ### Courses
 
