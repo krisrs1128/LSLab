@@ -5,6 +5,7 @@ permalink: /talks/
 sectionid: talks
 ---
 
+* [Microbiome Data Science](https://go.wisc.edu/99ndjd). UW Madison Statistics Department Lightning Talks. September 2025.
 * [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/7kgrbo). EcoSta. August 2025.
 * [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/4gl0is). GSTP Retreat. August 2025.
 * [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/padl48). useR! 2025. August 2025.
@@ -40,7 +41,7 @@ sectionid: talks
 * [Integrated Views of HIV Acquisition Risk](https://go.wisc.edu/wi1952). Susan Holmes Group Meeting. April 2024.
 * [Transparent Synthetic Data Generation](https://go.wisc.edu/694o2e). Machine Learning Lunch Meetings. April 2024.
 * [Interpretability: What's Possible? What's Next?](https://krisrs1128.github.io/talks/2024/20240212/20240212.html) ([recording](https://www.birs.ca/events/2024/5-day-workshops/24w5284/videos/watch/202402120904-Sankaran.html)). BIRS Workshop on Statistical Aspects of Trustworthy Machine Learning. February 2024.
-* [Simulation in Omics](https://krisrs1128.github.io/talks/2024/20240207/20240207.html#1). ([quarto](https://connect.doit.wisc.edu/content/f01c0d0c-ef3a-4129-bfcd-eb17ae109a89/simulation.html), [colab](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing)). UW Methods for Biological Data Workshop. February 2024. 
+* [Simulation in Omics](https://krisrs1128.github.io/talks/2024/20240207/20240207.html#1). ([quarto](https://connect.doit.wisc.edu/content/f01c0d0c-ef3a-4129-bfcd-eb17ae109a89/simulation.html), [colab](https://colab.research.google.com/drive/1IyMEQJwkslPzL9FYd5atvyGORqW9IrCI?usp=sharing)). UW Methods for Biological Data Workshop. February 2024.
 * [Challenges in Phylogenetic Inference (Faculty Introduction)](https://krisrs1128.github.io/talks/2024/20240131/20240131.html#1). Wisconsin Institute for Discovery Seminar Series. January 2024.
 * [Interpretability: Beyond Black and White](https://github.com/krisrs1128/talks/blob/master/2024/20240119/20240119.pptx). Susan Holmes Group Meeting. January 2024.
 * [Expressive Interfaces for Multi-omics Simulation](https://go.wisc.edu/4y9176). ([quarto](https://go.wisc.edu/62eh36), [colab](https://go.wisc.edu/u5a94m), [visualization](https://go.wisc.edu/q43ol3)). UW Madison Statistics Seminar. December 2023.
