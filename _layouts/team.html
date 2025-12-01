@@ -6,14 +6,13 @@
 	<h3 class="header-light regular-pad"> {{ page.name }}</h3>
 	<h4> {{ page.title }} </h4>
 	{{ page.description }}
-	{% if page.alumni != null %}
-	Lab Member: {{ page.alumni }}
+	{% if page.alumni %}
+	Lab Member: {{ page.alumni }}<br>
 	{% endif %}
-	<br>
-	{% if page.home != null %}
-	<a href=" {{ page.home }} ">Website</a>
+	{% if page.home %}
+	<a href="{{ page.home }}">Website</a>
 	{% endif %}
-	{% if page.mail != null %}
+	{% if page.mail %}
 	<a href="mailto:{{ page.mail }}"><li class="fa fa-fw fa-2x fa-envelope"></li></a>
 	{% endif %}
     </div>
