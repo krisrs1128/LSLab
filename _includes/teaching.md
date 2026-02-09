@@ -31,11 +31,13 @@ us if you have trouble accessing anything.
 
 ### Tutorials
 
-* [BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2025]](https://krisrs1128.github.io/talks/2025/20251008/20251008.html#1)
-* [DS BMED 208 Guest Lecture - Supporting Diabetic Retinopathy Screening with Machine Learning [Fall 2025]](https://go.wisc.edu/32rv90)
+* [Stanford DATASCI 120 Guest Lecture - Introduction to Data Visualization [Spring 2026]](https://go.wisc.edu/5fia0y)
+* [Stanford ]
+* [UW-Madison BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2025]](https://krisrs1128.github.io/talks/2025/20251008/20251008.html#1)
+* [UCLA DS BMED 208 Guest Lecture - Supporting Diabetic Retinopathy Screening with Machine Learning [Fall 2025]](https://go.wisc.edu/32rv90)
 * [Invitation to Data Visualization [Spring 2025]](https://krisrs1128.github.io/talks/2025/20250205/20250205.html)
 * [DSN AI Bootcamp - ML Foundations [Fall 2024]](http://krisrs1128.github.io/dsn_foundations_2024)
-* [BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2024]](https://krisrs1128.github.io/talks/2024/20241023/20241023.html#1)
+* [UW-Madison BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2024]](https://krisrs1128.github.io/talks/2024/20241023/20241023.html#1)
 * [BME 780 Guest Lecture - Multiple Testing in Quantitative Biology [Fall 2023]](https://krisrs1128.github.io/talks/2023/20231010/20231010.html#1)
 * [DSN AI Bootcamp - ML Foundations [Summer 2023]](http://krisrs1128.github.io/dsn_foundations_2023)
 * [NAAMII Summer School - ML Foundations [Summer 2023]](http://krisrs1128.github.io/naamii_summer_2023)
