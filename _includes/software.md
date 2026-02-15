@@ -7,6 +7,8 @@ sectionid: software
 
 ### Microbiome Data Analysis
 
+* [phylobar](https://mkdiro-o.github.io/phylobar/) - An R package for drawing stacked barplots by "painting" an associated tree.
+* [distortions](https://krisrs1128.github.io/distortions/site//) - A python package for visualizing the distortions that are introduced by nonlinear dimensionality reduction algorithms.
 * [multimedia](https://krisrs1128.github.io/multimedia) - An R package for microbiome data integration using causal mediation analysis.
 * [miniLNM](https://krisrs1128.github.io/miniLNM) - A lightweight implementation of the logistic-normal multinomial model for analysis of multivariate count data.
 * [molpad](https://kaiyanm.github.io/MolPad/) - Interactive visualization of longitudinal data using the focus-plus-context principle.
