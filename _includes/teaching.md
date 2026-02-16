@@ -12,6 +12,7 @@ us if you have trouble accessing anything.
 
 ### Courses
 
+* STAT 479 [Spring 2026] [Interpretable Machine Learning](https://github.com/krisrs1128/stat479_notes)
 * STAT 436 [Fall 2025] [Statistical Data Visualization](https://krisrs1128.github.io/stat436_notes) - [exercises](https://github.com/krisrs1128/data_visualization_exercises/blob/main/exercises.pdf), [code](https://github.com/krisrs1128/stat436_notes), [activities](https://github.com/krisrs1128/stat436_activities)
 * STAT 992 [Spring 2025] [Interpretable and Explainable Machine Learning](https://github.com/krisrs1128/stat992_s25)
 * STAT 436 [Spring 2025] [Statistical Data Visualization](https://krisrs1128.github.io/stat436_s25) - [exercises](https://github.com/krisrs1128/stat436_s25/blob/main/exercises/exercises.pdf), [code](https://github.com/krisrs1128/stat436_s25)

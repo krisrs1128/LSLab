@@ -8,7 +8,7 @@ sectionid: talks
 * [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/). Joint Statistical Meetings (08/2026).
 * [TBD](https://go.wisc.edu/). Computational Genomics Summer Institute (07/2026).
 * [TBD](). UW-Madison Microbiome Symposium (05/2026).
-* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/). Symposium on Data Science and Statistics (04/2025).
+* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/mzhs15). Symposium on Data Science and Statistics (04/2025).
 * [New Diagnostics for Dimensionality Reduction of Genomic Data](https://go.wisc.edu/). University of Michigan Biostatistics Seminar (02/2026).
 * [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/ozm0il/). CMStatistics (12/2025).
 * [Microbiome Data Science](https://go.wisc.edu/99ndjd). UW Madison Statistics Department Lightning Talks. September 2025.
