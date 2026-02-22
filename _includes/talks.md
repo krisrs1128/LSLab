@@ -5,12 +5,13 @@ permalink: /talks/
 sectionid: talks
 ---
 
-* [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/). Joint Statistical Meetings (08/2026).
-* [TBD](https://go.wisc.edu/). Computational Genomics Summer Institute (07/2026).
-* [TBD](). UW-Madison Microbiome Symposium (05/2026).
-* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/mzhs15). Symposium on Data Science and Statistics (04/2025).
-* [New Diagnostics for Dimensionality Reduction of Genomic Data](https://go.wisc.edu/). University of Michigan Biostatistics Seminar (02/2026).
-* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/ozm0il/). CMStatistics (12/2025).
+* [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/). Joint Statistical Meetings. August 2026.
+* [TBD](https://go.wisc.edu/). Computational Genomics Summer Institute. July 2026.
+* [TBD](). UW-Madison Microbiome Symposium. May 2026.
+* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/). STATGEN 2026. May 2026.
+* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/mzhs15). Symposium on Data Science and Statistics. April 2026.
+* [New Diagnostics for Dimensionality Reduction of Genomic Data](https://go.wisc.edu/). University of Michigan Biostatistics Seminar. February 2026.
+* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/ozm0il/). CMStatistics. December 2025.
 * [Microbiome Data Science](https://go.wisc.edu/99ndjd). UW Madison Statistics Department Lightning Talks. September 2025.
 * [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/7kgrbo). EcoSta. August 2025.
 * [Enhancing Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/4gl0is). GSTP Retreat. August 2025.
