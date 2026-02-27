@@ -9,8 +9,8 @@ sectionid: talks
 * [TBD](https://go.wisc.edu/). Computational Genomics Summer Institute. July 2026.
 * [TBD](). UW-Madison Microbiome Symposium. May 2026.
 * [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/). STATGEN 2026. May 2026.
-* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/mzhs15). Symposium on Data Science and Statistics. April 2026.
-* [New Diagnostics for Dimensionality Reduction of Genomic Data](https://go.wisc.edu/). University of Michigan Biostatistics Seminar. February 2026.
+* [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/). Symposium on Data Science and Statistics. April 2026.
+* [New Diagnostics for Dimensionality Reduction of Genomic Data](https://go.wisc.edu/mzhs15). University of Michigan Biostatistics Seminar. February 2026.
 * [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/ozm0il/). CMStatistics. December 2025.
 * [Microbiome Data Science](https://go.wisc.edu/99ndjd). UW Madison Statistics Department Lightning Talks. September 2025.
 * [Microbiome Intervention Analysis with `mbtransfer`](https://go.wisc.edu/7kgrbo). EcoSta. August 2025.
