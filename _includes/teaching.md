@@ -32,6 +32,7 @@ us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [Data Science in Biology Workshop Series - Modeling and Uncertainty](https://elsherbini.github.io/data-science-for-biology/materials/1-workshop1/5-modeling/)
 * [Stanford DATASCI 120 Guest Lecture - Introduction to Data Visualization [Spring 2026]](https://go.wisc.edu/5fia0y)
 * [Stanford ]
 * [UW-Madison BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2025]](https://krisrs1128.github.io/talks/2025/20251008/20251008.html#1)
