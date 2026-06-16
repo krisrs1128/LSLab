@@ -32,6 +32,7 @@ us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [UCLouvain Applied Statistics Seminar - A Brief Introduction to Shapley Values](https://krisrs1128.github.io/talks/2026/20260619/20260619.html)
 * [Data Science in Biology Workshop Series - Modeling and Uncertainty](https://elsherbini.github.io/data-science-for-biology/materials/1-workshop1/5-modeling/)
 * [Stanford DATASCI 120 Guest Lecture - Introduction to Data Visualization [Spring 2026]](https://go.wisc.edu/5fia0y)
 * [Stanford ]
