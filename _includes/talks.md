@@ -6,7 +6,7 @@ sectionid: talks
 ---
 
 * [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/). Joint Statistical Meetings. August 2026.
-* [Interactive Tools for Reliable Omics Visualization](https://go.wisc.edu/). Computational Genomics Summer Institute. July 2026.
+* [Interactive Tools for Reliable Omics Visualization](https://go.wisc.edu/q2sk36). Computational Genomics Summer Institute. July 2026.
 * [New Diagnostics for Dimensionality Reduction of Genomic Data](https://go.wisc.edu/ydvn84). UCLouvain ISBA Seminar. June 2026.
 * [Modular Software for Mediation Analysis of Microbiome Data](https:// go.wisc.edu/241m5e). UW-Madison Microbiome Symposium. May 2026.
 * [Interactively Resolving Distortion in Nonlinear Dimensionality Reduction](https://go.wisc.edu/9g3mce). Symposium on Data Science and Statistics. April 2026.
