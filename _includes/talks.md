@@ -9,7 +9,7 @@ sectionid: talks
 * [Interactive Tools for Reliable Omics Visualization](https://go.wisc.edu/9464wb). EcoSta. August 2026.
 * [Interactive Tools for Reliable Omics Visualization](https://go.wisc.edu/0nn20n). Kwon Lab Meeting. August 2026.
 * [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/13fpp0). Joint Statistical Meetings. August 2026.
-* [Towards Veridical Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/1o429x). July 2026.
+* [Towards Veridical Microbiome Analysis with Semisynthetic Data](https://go.wisc.edu/1o429x). Computational Genomics Summer Institute. July 2026.
 * [An Introduction to Shapley Values in Biology](https://krisrs1128.github.io/talks/2026/20260720/20260720.html). Computational Genomics Summer Institute. July 2026.
 * [Interactive Tools for Reliable Omics Visualization](https://go.wisc.edu/q2sk36). Computational Genomics Summer Institute. July 2026.
 * [New Diagnostics for Dimensionality Reduction of Genomic Data](https://go.wisc.edu/ydvn84). UCLouvain ISBA Seminar. June 2026.
