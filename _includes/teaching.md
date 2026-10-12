@@ -32,6 +32,8 @@ us if you have trouble accessing anything.
 
 ### Tutorials
 
+* [UW-Madison BME 780 Guest Lecture - Introduction to Differential Expression Analysis [Fall 2026]](https://krisrs1128.github.io/talks/2026/20260923/20260923.html)
+* [UW-Madison BME 780 Guest Lecture - Managing Batch Effects in Biological Data [Fall 2026]](https://krisrs1128.github.io/talks/2026/20260923/20260923.html)
 * [UCLouvain Applied Statistics Workshop - A Brief Introduction to Shapley Values [Summer 2026]](https://krisrs1128.github.io/talks/2026/20260619/20260619.html)
 * [Data Science in Biology Workshop Series - Modeling and Uncertainty [Summer 2026]](https://elsherbini.github.io/data-science-for-biology/materials/1-workshop1/5-modeling/)
 * [Stanford DATASCI 120 Guest Lecture - Introduction to Data Visualization [Spring 2026]](https://go.wisc.edu/5fia0y)

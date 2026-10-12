@@ -5,7 +5,8 @@ permalink: /talks/
 sectionid: talks
 ---
 
-* [New Diagnostics for Biological Dimensionality Reduction](go.wisc.edu/787no0). ML4MI. August 2026.
+* [Interactive and Interpretable Omics Analysis](https://go.wisc.edu/669t74). UW Madison Statistics Department Lightning Talks. September 2026.
+* [New Diagnostics for Biological Dimensionality Reduction](https://go.wisc.edu/787no0). ML4MI. August 2026.
 * [Interactive Tools for Reliable Omics Visualization](https://go.wisc.edu/9464wb). EcoSta. August 2026.
 * [Interactive Tools for Reliable Omics Visualization](https://krisrs1128.github.io/talks/2026/20260808/20260808.html). Kwon Lab Meeting. August 2026.
 * [Multimedia: An R package for multimodal mediation analysis](https://go.wisc.edu/13fpp0). Joint Statistical Meetings. August 2026.
