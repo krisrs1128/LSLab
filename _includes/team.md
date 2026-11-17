@@ -30,6 +30,8 @@ sectionid: team
 
 <h1>Current Team</h1>
 
+<p><strong>We are recruiting a postdoc! <a href="{{ site.url }}/postdoc/">See announcement.</a></strong></p>
+
 <div id="team">
 {% for pub in site.team %}
     {% if pub.alumni == null %}
