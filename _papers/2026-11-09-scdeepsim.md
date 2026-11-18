@@ -1,0 +1,10 @@
+---
+layout: paper
+title: "scDeepSim: Deep Generative Simulation for Controlled Benchmarking of Single-Cell Methods"
+authors: Langtian Ma, Jingyi Jessica Li, Kris Sankaran
+image: /assets/img/scdeepsim.png
+abstract: Benchmarking single-cell computational methods requires both realistic data and reliable ground truth. However, annotating real datasets is costly and, even when available, may not fully represent the diverse settings where methods are used. Simulators address this gap by generating synthetic data that has fully specified ground truth and whose structure can be tailored to challenge competing methods. Existing single-cell simulators can broadly be divided into statistical and deep generative classes. Statistical simulators offer interpretable parameters for controlling simulated data, but their modeling assumptions may not accurately represent real data. Deep generative models can learn complex expression patterns, but it remains unclear how to transparently control individual biological or technical factors without introducing unintended effects. We introduce scDeepSim, a simulator that combines a structured variational autoencoder with latent diffusion to generate synthetic single-cell expression profiles. It allows users to intervene on selected biological or technical factors at user-specified strengths, producing realistic datasets with benchmark ground truth. We demonstrate this capability by benchmarking batch correction and trajectory inference methods, showing how batch-effect strength affects batch mixing and cell-type preservation, and how trajectory geometry and noise affect pseudotime recovery. scDeepSim therefore enables researchers to vary selected biological and technical factors in realistic simulated data and assess how these changes affect the performance of single-cell analysis methods, helping understand when such methods may be appropriately applied. Code for the scDeepSim simulator and experiments is available at https://github.com/LangtianM/scDeepSim.
+code: https://github.com/LangtianM/scDeepSim
+journal: bioRxiv
+journalurl: https://doi.org/10.64898/2026.11.09.765456
+---
