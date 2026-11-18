@@ -25,7 +25,7 @@ Candidates will have an extensive opportunity to develop new technical skills an
 
 ### Qualifications
 
-* PhD in Statistics, Computational Biology, Computer Science or related fields
+* PhD in Statistics, Computational Biology, Computer Science or related fields.
 * Strong background in statistical or machine learning methods for biological data, particularly in microbiome research.
 * Experience developing data analysis software workflows using modern scientific programming languages like R or python.
 * Demonstrated skill in communicating complex statistical results precisely and without jargon.
@@ -35,5 +35,5 @@ Candidates will have an extensive opportunity to develop new technical skills an
 
 To apply, please send a cover letter describing your research experiences and interests, an updated CV, and contact information for three references to Kris Sankaran, PhD at [ksankaran@wisc.edu](mailto:ksankaran@wisc.edu).
 
-**Contact:** Kris Sankaran, [ksankaran@wisc.edu](mailto:ksankaran@wisc.edu)  
+**Contact:** Kris Sankaran, [ksankaran@wisc.edu](mailto:ksankaran@wisc.edu)
 **Research group website:** <https://measurement-and-microbes.org>
